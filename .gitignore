@@ -161,4 +161,7 @@ cython_debug/
 
 *.png
 *.jpeg
+/data
+/DCI-VTON-Virtual-Try-On
+
 /DensePose
