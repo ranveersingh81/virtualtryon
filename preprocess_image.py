@@ -141,3 +141,5 @@ class preprocess_image():
         plt.show()
 
         return pred_seg
+    
+    
